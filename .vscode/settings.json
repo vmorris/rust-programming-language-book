@@ -1,0 +1,11 @@
+{
+    "rust-analyzer.cargo.buildScripts.invocationLocation": "root",
+    "rust-analyzer.linkedProjects": [
+        "ch1/hello_cargo/Cargo.toml",
+        "ch2/guessing_game/Cargo.toml",
+        "ch3/functions/Cargo.toml",
+        "ch3/temperature/Cargo.toml",
+        "ch3/fibonacci/Cargo.toml",
+        "ch3/twelve_days/Cargo.toml",
+    ],
+}
