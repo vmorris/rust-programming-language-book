@@ -8,5 +8,8 @@
         "ch3/fibonacci/Cargo.toml",
         "ch3/twelve_days/Cargo.toml",
         "ch4/first_word/Cargo.toml",
+        "ch5/rectangles1/Cargo.toml",
+        "ch5/rectangles2/Cargo.toml",
+        "ch5/rectangles3/Cargo.toml",
     ],
 }
