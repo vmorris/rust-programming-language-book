@@ -1,0 +1,8 @@
+[book]
+authors = ["Vance Morris"]
+language = "en"
+multilingual = false
+src = "src"
+title = "aquascope-demo"
+
+[preprocessor.aquascope]

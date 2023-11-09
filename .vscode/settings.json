@@ -7,5 +7,6 @@
         "ch3/temperature/Cargo.toml",
         "ch3/fibonacci/Cargo.toml",
         "ch3/twelve_days/Cargo.toml",
+        "ch4/first_word/Cargo.toml",
     ],
 }
