@@ -11,5 +11,8 @@
         "ch5/rectangles1/Cargo.toml",
         "ch5/rectangles2/Cargo.toml",
         "ch5/rectangles3/Cargo.toml",
+        "ch6/coins/Cargo.toml",
+        "ch6/plus_one/Cargo.toml",
+        "ch6/game/Cargo.toml",
     ],
 }
