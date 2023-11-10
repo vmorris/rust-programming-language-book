@@ -14,5 +14,8 @@
         "ch6/coins/Cargo.toml",
         "ch6/plus_one/Cargo.toml",
         "ch6/game/Cargo.toml",
+        "ch7/backyard/Cargo.toml",
+        "ch7/restaurant/Cargo.toml",
     ],
+    "rust-analyzer.showUnlinkedFileNotification": false,
 }
