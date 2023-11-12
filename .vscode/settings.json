@@ -16,6 +16,9 @@
         "ch6/game/Cargo.toml",
         "ch7/backyard/Cargo.toml",
         "ch7/restaurant/Cargo.toml",
+        "ch8/exercise1/Cargo.toml",
+        "ch8/pig_latin/Cargo.toml",
+        "ch8/company/Cargo.toml",
     ],
     "rust-analyzer.showUnlinkedFileNotification": false,
 }
