@@ -19,6 +19,12 @@
         "ch8/exercise1/Cargo.toml",
         "ch8/pig_latin/Cargo.toml",
         "ch8/company/Cargo.toml",
+        "ch10/mixup/Cargo.toml",
+        "ch10/mytraits/Cargo.toml",
+        "ch11/adder/Cargo.toml",
+        "ch11/greeting/Cargo.toml",
+        "ch11/guess/Cargo.toml",
+        "ch11/print_and_return/Cargo.toml",
     ],
     "rust-analyzer.showUnlinkedFileNotification": false,
 }
